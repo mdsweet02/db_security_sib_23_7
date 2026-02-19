@@ -1,0 +1,19 @@
+ElementName                                        Type                
+-------------------------------------------------- --------------------
+Iron                                               Base                
+Carbon                                             Base                
+Silicon                                            Base                
+Manganese                                          Base                
+Chromium                                           Base                
+Sulfur                                             Impurity            
+Phosphorus                                         Impurity            
+Nickel                                             Base                
+Copper                                             Impurity            
+Molybdenum                                         Base                
+
+(обработано строк: 10)
+MeltCount  
+-----------
+         21
+
+(обработано строк: 1)
