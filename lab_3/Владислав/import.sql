@@ -1,9 +1,7 @@
-BULK INSERT Production.Import
-FROM 'C:\temp\production.csv'
+BULK INSERT products_import
+FROM 'C:\temp\products.csv'
 WITH
 (
  FIELDTERMINATOR = ',',
- ROWTERMINATOR = '\n',
- FIRSTROW = 2
+ ROWTERMINATOR = '\n'
 );
-GO

@@ -1,2 +1,1 @@
-SELECT * FROM Production.Import;
-GO
+SELECT * FROM products_import;
