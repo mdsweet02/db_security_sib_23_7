@@ -1,0 +1,6 @@
+USE FoodSystem
+GO
+SELECT * FROM Workers
+GO
+SELECT COUNT(*) FROM Workers
+GO
